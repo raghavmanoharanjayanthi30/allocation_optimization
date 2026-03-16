@@ -1,0 +1,9 @@
+# Backend dependencies for FastAPI app
+fastapi
+uvicorn
+pydantic>=1.10,<2
+numpy>=1.24
+scipy>=1.10
+networkx>=3.0
+langgraph==0.0.40
+openai>=1.40
